@@ -4,6 +4,7 @@
 
 OR
 
+Run this command in your terminal
 ``` bash
 git clone https://github.com/Esai-Keshav/ml-lab-datasets.git
 
