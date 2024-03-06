@@ -1,4 +1,10 @@
 # ML LAB Datasets
 
-[Link to Dowload full datasets](
-https://www.kaggle.com/datasets/esaikeshav/ml-lab-datasets)
+- To download click on **Code button**  and Download dataset as **zip file**
+
+OR
+
+``` bash
+git clone https://github.com/Esai-Keshav/ml-lab-datasets.git
+
+```
